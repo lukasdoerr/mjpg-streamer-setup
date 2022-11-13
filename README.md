@@ -4,7 +4,7 @@ Installing MJPG-streamer for multiple cameras can be simplified by using the scr
 
 **1. Install build dependencies**
 
-`sudo apt-get updatesudo apt-get install libjpeg8-dev imagemagick libv4l-dev v4l-utils make gcc git cmake g++`
+`sudo apt-get update && sudo apt-get install libjpeg8-dev imagemagick libv4l-dev v4l-utils make gcc git cmake g++`
 
 **2. Download MJPG-streamer**
 
